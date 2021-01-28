@@ -7,7 +7,7 @@ Full-stack developer @ [Learnlink](https://www.learnlink.no)
 
 Tech Consultant @ [Junior Consulting](https://www.jrc.no/)
 
-- 🔗 [LinkedIn] (https://www.linkedin.com/in/jesperpaulsen)
+- 🔗 (LinkedIn) [https://www.linkedin.com/in/jesperpaulsen]
 - 🕺 [app.jesper.no] (https://app.jesper.no/)
 
 ### Languages and Tools:
