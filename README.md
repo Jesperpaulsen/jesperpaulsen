@@ -3,7 +3,7 @@
 
 Currently studying computer science @ NTNU
 
-Full-stack developer @ [Learnlink](https://www.learnlink.no)
+Full-stack developer @ [Fnatic](https://fnatic.com/)
 
 Tech Consultant @ [Junior Consulting](https://www.jrc.no/)
 
