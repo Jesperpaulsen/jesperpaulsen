@@ -3,8 +3,6 @@
 
 Currently studying computer science @ NTNU
 
-Full-stack developer @ [Fnatic](https://fnatic.com/)
-
 Tech Consultant @ [Junior Consulting](https://www.jrc.no/)
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jesperpaulsen)
