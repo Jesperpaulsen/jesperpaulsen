@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-Currently studying computer science @ NTNU
-
 Tech Consultant @ [Progit](https://www.progit.no/)
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jesperpaulsen)
