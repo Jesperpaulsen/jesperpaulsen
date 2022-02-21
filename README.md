@@ -3,7 +3,7 @@
 
 Currently studying computer science @ NTNU
 
-Tech Consultant @ [Junior Consulting](https://www.jrc.no/)
+Tech Consultant @ [Progit](https://www.progit.no/)
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jesperpaulsen)
 - 🌳 [climate.jesper.no](https://climate.jesper.no) 
